@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/marcotcr/lime/commit/fd7eb2e6f760619c29fca0187c07b82157601b32",
       "git:hexsha": "fd7eb2e6f760619c29fca0187c07b82157601b32",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T06:39:26.567336+00:00"
     },
     {
       "@id": "https://repolex.ai/r/marcotcr/lime/commit/60ea36824276aedb20bcbcacea41d6e337fe91b3",
